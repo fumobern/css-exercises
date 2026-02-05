@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.big{
+	font-size: 24px;
+}
+
+.important{
+	background-color: rgb(255, 172, 172);
+	font-family: 'Verdana',  'DejaVu Sans', 'sans-serif';
+}
+
+#header{
+	color: rgb(0, 0, 255);
+	font-size: 36px;
+}
+
+#note{
+	background-color: rgb(128, 255, 128);
+	font-weight: bold;
+}
